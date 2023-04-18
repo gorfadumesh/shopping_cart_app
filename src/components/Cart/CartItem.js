@@ -2,7 +2,6 @@ import React from "react";
 import "./Cart.css";
 
 const CartItem = ({ item, onRemoveFromCart, onAddtoCart }) => {
-  console.log(item,"itemsss")
   return (
     <div className="cart-item">
       <img src={item.image} alt={item.title} />
