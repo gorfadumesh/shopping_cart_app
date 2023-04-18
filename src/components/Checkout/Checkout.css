@@ -1,0 +1,27 @@
+.checkout {
+    padding: 1rem;
+  }
+  
+  .checkout h2 {
+    margin-bottom: 1.5rem;
+  }
+  
+  .checkout ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .checkout li {
+    margin-bottom: 0.5rem;
+  }
+  
+  .checkout-total {
+    margin-top: 1.5rem;
+    text-align: right;
+    font-weight: bold;
+  }
+  
+  .checkout-total span {
+    color: #f44336;
+  }
+  
